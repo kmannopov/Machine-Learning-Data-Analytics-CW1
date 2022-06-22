@@ -1,4 +1,4 @@
-#Coursework for Module 6COSC017C-n - Machine Learning and Data Analytics
+# Coursework for Module 6COSC017C-n - Machine Learning and Data Analytics
 
 Learning Objectives and Outcomes:
 - Given a large data set, implement data mining/machine learning techniques focused on problem analysis, data pre-processing, data post-processing.
