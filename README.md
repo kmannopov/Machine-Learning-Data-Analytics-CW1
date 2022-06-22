@@ -1,3 +1,11 @@
+Coursework for Module 6COSC017C-n - Machine Learning and Data Analytics
+
+Learning Objectives and Outcomes:
+- Given a large data set, implement data mining/machine learning techniques focused on problem analysis, data pre-processing, data post-processing.
+- Choose and implement appropriate algorithms.
+- Perform critical evaluation of the performance of data mining and machine learning algorithms for a given domain/application.
+- Produce a written report on the analysis of the data set
+
 # Introduction
 
 Our dataset deals with clients of a certain bank. The set contains
